@@ -7,7 +7,8 @@ A CLI python program to download youtube videos, convert them into mp3 to create
 
 ### Usage
 ```
-python YoutubePlaylist.py https://www.youtube.com/playlist?list=<YOUR PLAYLIST ID HERE>
+python YoutubePlaylist.py 
+https://www.youtube.com/playlist?list=<YOUR PLAYLIST ID HERE>
 ```
 
 ### Disclaimer
